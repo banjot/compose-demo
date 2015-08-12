@@ -1,5 +1,7 @@
 # A sample Docker workflow with Node.js, Redis and NGiNX
 
+This compose workflow is a demonstration of a simple web counter built using docker containers.
+
 [![Circle CI](https://circleci.com/gh/msanand/docker-workflow/tree/master.svg?style=shield)](https://circleci.com/gh/msanand/docker-workflow/tree/master)
 
 For a detailed explanation of the workflow used in this repository, refer to [this post from my blog](http://anandmanisankar.com/posts/docker-container-nginx-node-redis-example/):
